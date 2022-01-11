@@ -3,7 +3,7 @@
 
 |Chapter|Date|Presentor|Link|
 |-------|----|---------|----|
-|1. Introducing Kubernetes| Jan 11st, 2022 | jinee ||
+|1. Introducing Kubernetes| Jan 11st, 2022 | @gineepark |https://velog.io/@ginee_park/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B0%9C%EC%9A%94|
 |2. First steps with Docker and Kubernetes| Jan 11st, 2022 | @junghyun326 ||
 |3. Pods: running containers in K8S |Jan 11st, 2022 | @jean1042 ||
 |4.  |Jan 18th, 2022 | @ ||
